@@ -28,4 +28,5 @@ procrastination
 
 ## Misc. 
 
+[please hire me, I need money](./assets/documents/AltaCV_Template.pdf)  
 [this](https://en.wikipedia.org/wiki/Miscellaneous)
