@@ -4,24 +4,28 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Greetings, people!  
+My name is Ikoinufe Eivuhekoi. World-builder, amateur coder, full-time university student, abandoner of hobbies, collector of useless information and posessor of too many unneccesary titles.  
+Main programming languages include Python and occasionally Haskell with an even smaller dash of Rust.  
+In my freetime I like advocating for Free Software (Free as in **FREEDOM** not price), and occasionally working on my worldbuilding project: A Shattered World.
+
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+Inside your walls.
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+Please don't. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+I have yet to complete any courses.
 
 ## Projects
 
+procrastination
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[this](https://en.wikipedia.org/wiki/Miscellaneous)
